@@ -49,7 +49,6 @@ unsigned short csum(unsigned short *ptr,int nbytes) {
 
 int main(int argc, char *argv[])
 {
-
 	if (argc < 3) {
 		fprintf(stderr, "usage: sudo %s [-s source-ip] [-d dest-ip] "
 						"[-p source-port] [-k dest-port]\n", argv[0]);
