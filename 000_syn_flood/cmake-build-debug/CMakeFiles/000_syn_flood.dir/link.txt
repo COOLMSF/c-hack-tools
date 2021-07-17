@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/000_syn_flood.dir/main.c.o CMakeFiles/000_syn_flood.dir/test.c.o -o 000_syn_flood 

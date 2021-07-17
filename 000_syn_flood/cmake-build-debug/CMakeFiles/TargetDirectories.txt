@@ -1,0 +1,3 @@
+/home/coolder/git/c-hack-tools/000_syn_flood/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/coolder/git/c-hack-tools/000_syn_flood/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/coolder/git/c-hack-tools/000_syn_flood/cmake-build-debug/CMakeFiles/000_syn_flood.dir

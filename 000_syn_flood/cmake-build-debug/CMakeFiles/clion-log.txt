@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/coolder/git/c-hack-tools/000_syn_flood
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/coolder/git/c-hack-tools/000_syn_flood/cmake-build-debug

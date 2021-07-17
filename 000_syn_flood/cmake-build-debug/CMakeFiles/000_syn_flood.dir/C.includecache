@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/coolder/git/c-hack-tools/000_syn_flood/main.c
+unistd.h
+-
+stdio.h
+-
+string.h
+-
+sys/socket.h
+-
+stdlib.h
+-
+errno.h
+-
+netinet/tcp.h
+-
+netinet/ip.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+getopt.h
+-
+
