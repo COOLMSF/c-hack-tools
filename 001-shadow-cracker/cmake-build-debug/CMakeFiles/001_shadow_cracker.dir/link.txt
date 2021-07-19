@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/001_shadow_cracker.dir/main.c.o -o 001_shadow_cracker 

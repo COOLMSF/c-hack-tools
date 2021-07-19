@@ -1,0 +1,3 @@
+/home/coolder/git/c-hack-tools/001-shadow-cracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/coolder/git/c-hack-tools/001-shadow-cracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/coolder/git/c-hack-tools/001-shadow-cracker/cmake-build-debug/CMakeFiles/001_shadow_cracker.dir
