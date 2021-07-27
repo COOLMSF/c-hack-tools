@@ -32,6 +32,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/JieDan/linux/a/test/bwa-mem2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunManager">
@@ -60,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626610825295</updated>
       <workItem from="1626610826546" duration="4736000" />
-      <workItem from="1626675400732" duration="22284000" />
+      <workItem from="1626675400732" duration="22735000" />
     </task>
     <servers />
   </component>
